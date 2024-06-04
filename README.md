@@ -1,4 +1,5 @@
 # Election Data Analysis and Modeling
+![screenshot](2880px-Lok_Sabha_Zusammensetzung_2019.svg.png)
 
 This project involves analyzing election data to determine various factors that influence election outcomes. It includes data preprocessing, visualization, statistical tests, and machine learning modeling to predict election winners.
 
